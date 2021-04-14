@@ -7,6 +7,11 @@
 *.obj
 *.elf
 
+# Binaries
+*
+!*.c
+!Makefile
+
 # Linker output
 *.ilk
 *.map
